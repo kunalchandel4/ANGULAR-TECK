@@ -1,0 +1,10 @@
+create 3 function call them fun1, fun2, fun3
+
+call fun1 on body.onload 
+
+call fun2 on window.addEventlistner("load")
+
+call fun3 on document.addEventlistner("DOMContentLoaded")
+
+and findout which of these will be executed first 
+
