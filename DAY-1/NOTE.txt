@@ -1,0 +1,104 @@
+Tools That we required 
+
+Angular 2 TypeScript Emmet
+jakethashi
++++++++++++++++++++++++++++++++
+Auto Rename Tag
+v0.1.10
+Jun han
+++++++++++++++++++++++++++++++
+Live Server
+v5.7.9
+Ritwick Dey
+++++++++++++++++++++++++++++++
+Mithril Emmet
+v0.7.7
+FallenMax
++++++++++++++++++++++++++++++++++
+Prettier - Code formatter
+v10.1.0
+Prettier
+prettier.io
+
++++++++++++++++++++++++++++++++++++
+vscode-icons
+v12.5.0
+VSCode Icons Team
+
+
+
+What do we need ?
+
+Technical skill : HTML5, CSS3, JavaScript 1.8.5
+
+Hardware and software : 
+
+IDE : Visual Studio code / webstorm / atom
+
+Browser : chrome latest
+
+platform : nodejs latest
+
+Databse :  mongodb / firebase
+
+version control  :  git 
+
+network :  internet access to download from git and npmjs.org
+
+
+
+About This Course
+
+*Undersstand and explore the ES6/ES7
+
+*Write program using typescript Latest
+
+*understand members of Angular bundle
+
+*develop program using angluar platform
+
+*workflow for fast Angular application creation with Angular CLI 
+
+*Unit Testing Angular code 
+
+
+
+Avantages of Angular
+
+*Open Source
+
+*Reduction in development time 
+
+*Latest compliances
+ --ES6
+ --Modular
+ --Internationalization and accessibility
+ 
+*Performance 
+
+*Popularity / Availability of resources
+
+* Clear Documentation
+
+
+
+What to you know / use ?
+
+*nodejs  --
+*TypeScript -- Module  
+*TraceurJS  -- used but not Now
+*BableJS  -- Now a days Bable used
+*SYstemJS  -- 
+*WebPack  --  -+- fire angular behind the scene
+*Express    --  it is webserver to fire a webserver
+*Jasmine  --  Meant for unit Testing  plane JS
+*karma   --  Now a days Meant for unit Testing 
+
+//////////////////////////////
+*Git 
+*mongodb / firebase
+*nodeMon
+*NVM
+
+
+BUild tools using CLI 
