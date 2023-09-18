@@ -1,0 +1,42 @@
+What is TypeScript ?
+ strong dataType with type , annotations, imports, language, utilities.
+ 
+ es3 /  es5 / es6 
+   classes, module, template, arrow  functions, utilities
+     
+
+
+Why TypeScript ?
+
+Its just a superset of javaScript so any standard javaScript is a valid TypeScript file
+Give types and safety to javaScript
+write error free code, and much fatser and a lot more.
+
+compiles to es3 javaScript by Default.
+TypeScript lets you write javaScript the way you really want to.
+
+
+to install typeScript 
+you should have node 
+then excute this command over the terminal
+npm i typescript -g
+ to see the version of typeScript 
+ tsc -v;
+ 
+
+ TypeScript Documentation : https://www.typescriptlang.org/
+
+Continue : 1:33
+
+
+
+
+Notion : https://vivmagarwal.notion.site/Masaischool-Placements-Angular-preparation-1d4600c884a74e429e0d5300eaa8e21a
+
+
+
+
+
+
+
+

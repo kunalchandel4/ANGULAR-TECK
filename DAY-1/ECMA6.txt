@@ -1,0 +1,24 @@
+What's new in ES6
+
+ - Block Scope (let/ const)
+ - Destructuring
+ - functional Programming 
+  * Default params
+  * Rest parameters
+  * Spread syntax
+  * Arrow Function (fat arrow function )
+ 
+ - Array Method
+  *Iterator /- 
+  *Generator /-
+  *Template Strings /-
+  *Extended Object /- 
+  
+  -Promise
+  -Classes
+  -Modules
+
+
+
+
+
